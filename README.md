@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mirixshimmer
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in HTML, CSS and JavaScript 
+- 🌱 I’m currently learning HTML, CSS and JavaScript 
+- 💞️ I’m looking to collaborate on frontend 
 - 📫 How to reach me mirixshimmer5@gmail.com
 
 <!---
